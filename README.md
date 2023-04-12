@@ -1,3 +1,3 @@
 # MLwPyTorchScikitLearn
 
-Practice following the MAchine Learning with PyTorch and Scikit-Learn textbook
+Practice following the Machine Learning with PyTorch and Scikit-Learn textbook
